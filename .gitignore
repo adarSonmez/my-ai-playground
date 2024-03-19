@@ -18,3 +18,5 @@ data/bluebook_for_bulldozers/*
 data/bluebook-for-bulldozers/
 *__MACOSX*
 notebook-playground.ipynb
+
+.idea
